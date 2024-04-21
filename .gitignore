@@ -1,0 +1,10 @@
+# Ignore .env file
+.env
+
+# Ignore all CSV and TSV files
+*.csv
+*.tsv
+
+# Ignore virtual environment folders
+venv/
+KG/

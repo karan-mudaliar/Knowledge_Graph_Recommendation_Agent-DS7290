@@ -1,0 +1,4 @@
+openai==0.13.3
+python-dotenv==0.19.1
+pandas==1.3.3
+sentence-transformers==2.1.0
